@@ -1,0 +1,6 @@
+{
+  "name": "MAISON KIYORA — Haute Parfumerie",
+  "description": "Discover Maison Kiyora. Modern luxury fragrances, artistic flacons, and captivating signature notes crafted with timeless elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
